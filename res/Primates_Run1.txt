@@ -1,0 +1,179 @@
+/Library/Java/JavaVirtualMachines/jdk-16.0.2.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=49891:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/roydon/IdeaProjects/PDP/Project1_Primates/out/production/Project1_Primates SanctuaryDriver
+List of Monkeys in Sanctuary:[]
+
+---------------------------------------------
+List of Monkeys(with Location):
+
+---------------------------------------------
+3 monkeys added.
+
+---------------------------------------------
+List of Monkeys(with Location):
+Alex - Isolation Unit: I3
+Chewy - Isolation Unit: I1
+Momo - Isolation Unit: I2
+
+---------------------------------------------
+monkeys moved to enclosures automatically.
+
+---------------------------------------------
+List of Monkeys(with Location):
+Alex - Enclosure: E2
+Chewy - Enclosure: E1
+Momo - Enclosure: E2
+
+---------------------------------------------
+Space is available for new monkeys.
+
+---------------------------------------------
+17 new monkeys added.
+
+---------------------------------------------
+List of Monkeys(with Location):
+Alex - Enclosure: E2
+Chachi - Enclosure: E2
+Chewy - Enclosure: E1
+Hat - Enclosure: E2
+Mela - Enclosure: E1
+Milo - Enclosure: E2
+Molly - Isolation Unit: I1
+Momo - Enclosure: E2
+Morty - Isolation Unit: I2
+Noah - Enclosure: E1
+Peanut - Enclosure: E1
+Penny - Enclosure: E2
+Piper - Enclosure: E2
+Raja - Enclosure: E2
+Rick - Enclosure: E1
+Rikki - Enclosure: E1
+Tom - Isolation Unit: I3
+Tully - Enclosure: E2
+Tupac - Enclosure: E1
+Zoey - Enclosure: E2
+
+---------------------------------------------
+Move from Enclosure to an Isolation Unit
+Exception Caught: Monkey could not be moved to the Destination because capacity is full.
+
+---------------------------------------------
+Move from Isolation Unit to an Enclosure
+Exception Caught: Monkey could not be moved to the Destination because capacity is full.
+
+---------------------------------------------
+Space is not available for new monkeys.
+
+---------------------------------------------
+Adding a new Enclosure and Isolation Unit
+Exception Caught: No new enclosures of this size can be added. Sanctuary area limit reached.
+Exception Caught: No new Isolation Units can be added. Sanctuary area limit reached.
+
+---------------------------------------------
+Sanctuary area expanded by 165 sq mt.
+
+---------------------------------------------
+Adding 3 new Enclosures(size:25,20,40 sqmt) and 8 new Isolation Units.
+Added 3 new Enclosures(size:25,20,40 sqmt) and 8 new Isolation Units.
+Space is available for new monkeys.
+
+---------------------------------------------
+8 new monkeys added.
+Exception Caught: Monkey(Mike) cannot be moved as all compatible Enclosures are full.
+Exception Caught: Monkey(Jose) cannot be moved as all compatible Enclosures are full.
+
+---------------------------------------------
+List of Monkeys(with Location):
+Alex - Enclosure: E2
+Chachi - Enclosure: E2
+Chewy - Enclosure: E1
+Gizmo - Enclosure: E4
+Goldie - Enclosure: E4
+Hat - Enclosure: E2
+Jerry - Enclosure: E5
+Jose - Isolation Unit: I11
+Lizzy - Enclosure: E5
+Mela - Enclosure: E1
+Mike - Isolation Unit: I10
+Milo - Enclosure: E2
+Molly - Enclosure: E3
+Momo - Enclosure: E2
+Morty - Enclosure: E3
+Noah - Enclosure: E1
+Pat - Enclosure: E4
+Peanut - Enclosure: E1
+Penny - Enclosure: E2
+Piper - Enclosure: E2
+Raja - Enclosure: E2
+Rick - Enclosure: E1
+Rikki - Enclosure: E1
+Tom - Enclosure: E4
+Travis - Enclosure: E5
+Tully - Enclosure: E2
+Tupac - Enclosure: E1
+Zoey - Enclosure: E2
+
+---------------------------------------------
+Space is available for new monkeys.
+
+---------------------------------------------
+Species List(with Location):
+DRILL - Enclosure: E2, 
+GUEREZA - This species is currently not housed in the Sanctuary.
+HOWLER - Enclosure: E1, Enclosure: E3, 
+MANGABEY - Isolation Unit: I10, Isolation Unit: I11, 
+OTHER - This species is currently not housed in the Sanctuary.
+SAKI - Enclosure: E5, 
+SPIDER - Enclosure: E4, 
+SQUIRREL - This species is currently not housed in the Sanctuary.
+TAMARIN - This species is currently not housed in the Sanctuary.
+
+---------------------------------------------
+Locations of Howler species: Enclosure: E1, Enclosure: E3, 
+Locations of Tamarin species: This species is currently not housed in the Sanctuary.
+Locations of Mangabey species: Isolation Unit: I10, Isolation Unit: I11, 
+
+---------------------------------------------
+Shopping List:
+EGGS - 3050 gr
+FRUITS - 1600 gr
+INSECTS - 100 gr
+LEAVES - 3350 gr
+NUTS - 100 gr
+SEEDS - 500 gr
+TREESAP - 500 gr
+OTHER - 0 gr
+
+---------------------------------------------
+Enclosure Sign for Enclosure: E1
+-----------------------------------------
+Name: Chewy
+Sex: MALE
+Favorite Food: LEAVES
+-----------------------------------------
+Name: Mela
+Sex: FEMALE
+Favorite Food: SEEDS
+-----------------------------------------
+Name: Tupac
+Sex: MALE
+Favorite Food: LEAVES
+-----------------------------------------
+Name: Noah
+Sex: MALE
+Favorite Food: EGGS
+-----------------------------------------
+Name: Peanut
+Sex: FEMALE
+Favorite Food: FRUITS
+-----------------------------------------
+Name: Rick
+Sex: MALE
+Favorite Food: LEAVES
+-----------------------------------------
+Name: Rikki
+Sex: MALE
+Favorite Food: EGGS
+-----------------------------------------
+
+---------------------------------------------
+
+Process finished with exit code 0
